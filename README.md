@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MohamadSA2002</h1>
 <h3 align="center">A passionate System & Networkmanagement from Belgium</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadsa2002&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsa2002" /> </p>
 <p align="center">
   <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&auto=format&q=80" width="100%" alt="banner"/>
 </p>
