@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadsa2002&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsa2002" /> </p>
 <p align="center">
-  <img src="[URL-of-pad-naar-afbeelding](https://unsplash.com/photos/blue-optical-fiber-cables-inserted-into-ports-of-switch-panel-inside-server-rack-pamzgvziyJE)" width="100%" alt="banner" />
+  <img src="(https://unsplash.com/photos/blue-optical-fiber-cables-inserted-into-ports-of-switch-panel-inside-server-rack-pamzgvziyJE)" width="100%" alt="banner" />
 </p>
 - 💬 Ask me about **Python, C#, JavaScript, PowerShell, Windows, Linux, SQL, Office pakket**
 
