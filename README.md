@@ -4,7 +4,10 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&auto=format&q=80" width="80%" alt="banner"/>
 </p>
-💬 Ask me about <b>Python, C#, JavaScript, HTML, CSS, Vue.js, TailwindCSS, PowerShell, Docker, Git, Linux, SQL, Windows, Linux, SQL, Zabbix monitoring tools, Office pakket (Exchange, SharePoint, Intune)</b>
+💬 <b>Tech Stack & Tools:</b><br>
+• <b>Programming & Web:</b> Python, C#, JavaScript, HTML, CSS, Vue.js, TailwindCSS, SQL<br>
+• <b>Systems & Scripting:</b> PowerShell, Windows, Linux, Docker, Git<br>
+• <b>Monitoring & Enterprise:</b> Zabbix monitoring tools, Office (Exchange, SharePoint, Intune)
 
 📬 How to reach me <b>mohamadsayegh27@gmail.com</b>
 
