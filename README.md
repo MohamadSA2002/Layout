@@ -4,9 +4,9 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&auto=format&q=80" width="80%" alt="banner"/>
 </p>
-💬 Ask me about **Python, C#, JavaScript, PowerShell, Windows, Linux, SQL, Office pakket**
+💬 Ask me about <b>Python, C#, JavaScript, PowerShell, Windows, Linux, SQL, Office pakket</b>
 
-📫 How to reach me **mohamadsayegh27@gmail.com**
+📬 How to reach me <b>mohamadsayegh27@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
