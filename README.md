@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadsa2002&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsa2002" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mohamadsayegh" target="blank"><img src="https://img.shields.io/twitter/follow/mohamadsayegh?logo=twitter&style=for-the-badge" alt="mohamadsayegh" /></a> </p>
-
 - 💬 Ask me about **Python, C#, JavaScript, PowerShell, Windows, Linux, SQL, Office pakket**
 
 - 📫 How to reach me **mohamadsayegh27@gmail.com**
