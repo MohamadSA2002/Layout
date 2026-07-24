@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&auto=format&q=80" width="80%" alt="banner"/>
 </p>
-💬 Ask me about <b>Python, C#, JavaScript, PowerShell, Windows, Linux, SQL, Office pakket</b>
+💬 Ask me about <b>Python, C#, JavaScript, HTML, CSS, Vue.js, TailwindCSS, PowerShell, Windows, Linux, SQL, Zabbix monitoring tools, Office pakket (Exchange, SharePoint, Intune)</b>
 
 📬 How to reach me <b>mohamadsayegh27@gmail.com</b>
 
