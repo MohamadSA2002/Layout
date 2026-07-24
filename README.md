@@ -6,6 +6,7 @@
 </p>
 💬 Ask me about <b>Python, C#, JavaScript, HTML, CSS, Vue.js, TailwindCSS, PowerShell, Windows, Linux, SQL, Zabbix monitoring tools, Office pakket (Exchange, SharePoint, Intune)</b>
 <b></b>
+
 📬 How to reach me <b>mohamadsayegh27@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
