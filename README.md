@@ -2,7 +2,7 @@
 <h3 align="center">A passionate System & Networkmanagement from Belgium</h3>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&auto=format&q=80" width="90%" alt="banner"/>
+  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&auto=format&q=80" width="85%" alt="banner"/>
 </p>
 - 💬 Ask me about **Python, C#, JavaScript, PowerShell, Windows, Linux, SQL, Office pakket**
 
