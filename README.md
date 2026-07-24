@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadsa2002&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsa2002" /> </p>
 <p align="center">
-  <img src="https://unsplash.com/photo-1544717305-2782549b5136?w=1200&auto=format&q=80" width="100%" alt="banner"/>
+  <img src="https://unsplash.com/photos/cable-network-M5tzZtFCOfs" width="100%" alt="banner"/>
 </p>
 - 💬 Ask me about **Python, C#, JavaScript, PowerShell, Windows, Linux, SQL, Office pakket**
 
